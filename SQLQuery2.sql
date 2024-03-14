@@ -1,0 +1,1 @@
+﻿SP_RENAME'KullaniciBilgileri.Telefon','Spaket','Column'
